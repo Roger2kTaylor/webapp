@@ -10,7 +10,7 @@
 
     <title>Jumbotron Template for Bootstrap</title>
 
-
+    <!-- Added new line -->    
     <!-- Custom styles for this template -->
     <link href="jumbotron.css" rel="stylesheet">
 
